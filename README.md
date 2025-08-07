@@ -1,4 +1,4 @@
-#EduForge - SensAI Hackathon Backend
+# EduForge - SensAI Hackathon Backend
 This is the backend for the SensAI Hackathon (Problem Statement 1) by HyperVerge, built using FastAPI. It supports features like video course generation, file uploads, authentication, task management, and more.
 
 Features
